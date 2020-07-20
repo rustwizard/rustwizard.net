@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>https%3A//rustwizard.net/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/2019-07-23-wfh/</loc>
+            
+                <lastmod>2019-07-23T11:12:00Z</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/2020-07-19-wfh/</loc>
+            
+                <lastmod>2020-07-19</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/categories/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/categories/chitchat/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/categories/devops/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/categories/programming/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/english-practice/</loc>
+            
+                <lastmod>2019-07-21T10:14:00Z</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/eth-contract-deploy/</loc>
+            
+                <lastmod>2019-06-30</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/mta/</loc>
+            
+                <lastmod>2019-07-20</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/nginx/</loc>
+            
+                <lastmod>2019-06-29</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/page/1/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/page/2/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/pet-project/</loc>
+            
+                <lastmod>2019-07-20</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/blog/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/ethtereum/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/job/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/nginx/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/read/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/rust/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tpa/</loc>
+            
+                <lastmod>2019-07-08</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/welcome/</loc>
+            
+                <lastmod>2019-06-29</lastmod>
+            
+        </url>
+    
+</urlset>
