@@ -1,2 +1,4 @@
 # rustwizard.net
-my static site repo
+My static site repo
+
+I'm using https://www.getzola.org/ for site generation
