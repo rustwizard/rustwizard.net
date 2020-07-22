@@ -21,6 +21,13 @@
         </url>
     
         <url>
+            <loc>https%3A//rustwizard.net/2020-07-22-pp-next/</loc>
+            
+                <lastmod>2020-07-22</lastmod>
+            
+        </url>
+    
+        <url>
             <loc>https%3A//rustwizard.net/categories/</loc>
             
         </url>
@@ -79,6 +86,11 @@
         </url>
     
         <url>
+            <loc>https%3A//rustwizard.net/page/3/</loc>
+            
+        </url>
+    
+        <url>
             <loc>https%3A//rustwizard.net/pet-project/</loc>
             
                 <lastmod>2019-07-20</lastmod>
@@ -104,6 +116,11 @@
     
         <url>
             <loc>https%3A//rustwizard.net/tags/ethtereum/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//rustwizard.net/tags/golang/</loc>
             
         </url>
     
